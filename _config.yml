@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : Adrien Bussy
+  name             : "Adrien Bussy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in economics"
   location         : "London School of Economics"
   employer         :
   googlescholar    : 
