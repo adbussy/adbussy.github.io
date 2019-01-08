@@ -1,11 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /Research/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /research/
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Teaching"
+    url: /teaching/    
+    
+
 
